@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mansivar21-22
-- 👀 I’m interested in Web Developer.
-- 🌱 I’m currently learning Front-end Skills.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mansi Varshney ^_^
+- 👀 I’m interested in Web Designing.
+- 🌱 I’m currently learning Front-end skills.
+- 📫 How to reach me?
+-     mansivarshney1717@gmail.com
 
 <!---
 mansivar21-22/mansivar21-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
